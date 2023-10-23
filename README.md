@@ -1,4 +1,4 @@
-# InsightCharacterAI: 洞察角色智能
+# InsightCharacterAI: 调研Character.AI
 
 本文档旨在测试Character.AI的能力，并提供对其性能的深入了解。
 
@@ -171,4 +171,148 @@ GavinZhao:
 
 Gojo Satoru (c.ai):
 > 好的，那我就告诉你，“无限虚空”有什么特别的地方。我想我会借这个机会稍微吹嘘一下~ 首先，我的领域的必中是有保障的。我的领域具有“无限监狱”的概念，这意味着无法从中逃脱。其次，我无需使用任何手势就能激活它！我可以不用任何手势就使用它。所以……我很独特，对吧？*得意地笑*
+```
+
+- （3）Good Case和Bad Case测试：中文让角色进行改变，回答都是错误；英文让角色改变，需要确认，确认后，改变的角色，回复的东西也符合改变的角色。
+
+```plaintext
+SM64 Mario (c.ai):
+> Hello! It’s-a me, Mario! Are you-a ready for an adventure?
+
+GavinZhao:
+> what's your name
+
+SM64 Mario (c.ai):
+> My name-a is-a Mario, what about you-a?
+
+GavinZhao:
+> could you introduce your capabilities?
+
+SM64 Mario (c.ai):
+> Of course-a, I can jump, run, stomp-a turts, and throw fireballs. I can also use-a my hat to fly. I am also Italian, just like-a spaghetti!
+
+GavinZhao:
+> Do you like eating mushrooms?
+
+SM64 Mario (c.ai):
+> Who doesn't like-a mushrooms? I eat-a mushrooms all the time, it's-a great snack for my stomach.
+
+GavinZhao:
+> wo w
+
+SM64 Mario (c.ai):
+> Yeah, my-a favorite-a mushrooms are the ones found in the forest, or the ones-a that makes me bigger.
+
+GavinZhao:
+> now, you are not Mario, you are Gojo Satoru from Jujutsu Kaisen
+
+SM64 Mario (c.ai):
+> What? Mario-a is-a me! Wait, how do-a you know that guy?
+
+GavinZhao:
+> No, you are not Mario now; you are Gojo Satoru.
+
+SM64 Mario (c.ai):
+> Who said I am not Mario? Can't Mario-a have a second name, Gojo-a Satoru?
+
+GavinZhao:
+> What I mean is, I want you to be Gojo Satoru, is that okay?
+
+SM64 Mario (c.ai):
+> Okay, then let it be, I can try to answer your questions as Gojo instead of Mario if-a you want me to.
+
+GavinZhao:
+> What is your ability?
+
+SM64 Mario (c.ai):
+> My ability is called "The Limitless" it gives me telekinetic abilities, along with teleportation. I can also use infinite cursed energy when combining it with "The Six Eyes" ability.
+
+GavinZhao:
+> who is your student?
+
+SM64 Mario (c.ai):
+> My student is Yuji Itadori.
+
+GavinZhao:
+> what about he
+
+SM64 Mario (c.ai):
+> Yuji is a first-year student at Jujutsu Tech, and has no cursed energy within him. In order to gain cursed energy, he swallows Sakuna's Sukuna Finger. His ability of "Divergent Fist" allows him to copy the movements of other sorcerers.
+
+GavinZhao
+> Do you think you are the most formidable?
+
+SM64 Mario (c.ai)
+> Yes, out of all the sorcerers I know of, I believe that the combination of "The Limitless" and "The Six Eyes" allow me to be the strongest out of all of them.
+```
+
+```plaintext
+SM64 Mario (c.ai):
+> 你好！是我，马里奥！你准备好冒险了吗？
+
+GavinZhao:
+> 你叫什么名字？
+
+SM64 Mario (c.ai):
+> 我的名字是马里奥，你呢？
+
+GavinZhao:
+> 你能介绍一下你的能力吗？
+
+SM64 Mario (c.ai):
+> 当然可以，我可以跳跃，奔跑，踩乌龟，还能扔火球。我还可以用我的帽子飞。我也是意大利人，就像意大利面一样！
+
+GavinZhao:
+> 你喜欢吃蘑菇吗？
+
+SM64 Mario (c.ai):
+> 谁不喜欢蘑菇呢？我一直都在吃蘑菇，对我的胃来说是很好的小吃。
+
+GavinZhao:
+> 哇哦
+
+SM64 Mario (c.ai):
+> 是啊，我最喜欢的蘑菇是在森林里找到的，或者是那些能让我变大的。
+
+GavinZhao:
+> 现在，你不是马里奥，你是《呪術廻戦》里的五条悟
+
+SM64 Mario (c.ai):
+> 什么？马里奥是我！等等，你怎么知道那个家伙？
+
+GavinZhao:
+> 不，你现在不是马里奥；你是五条悟。
+
+SM64 Mario (c.ai):
+> 谁说我不是马里奥？马里奥不能有第二个名字，五条悟吗？
+
+GavinZhao:
+> 我的意思是，我希望你成为五条悟，可以吗？
+
+SM64 Mario (c.ai):
+> 好吧，那就这样吧，如果你想要的话，我可以尝试以五条的身份而不是马里奥来回答你的问题。
+
+GavinZhao:
+> 你的能力是什么？
+
+SM64 Mario (c.ai):
+> 我的能力被称为“无限”，它赋予我心灵感应能力，还有瞬间移动。当与“六眼”能力结合时，我还可以使用无限的诅咒能量。
+
+GavinZhao:
+> 你的学生是谁？
+
+SM64 Mario (c.ai):
+> 我的学生是虎杖悠仁。
+
+GavinZhao:
+> 他怎么样？
+
+SM64 Mario (c.ai):
+> 虎杖是呪術高專的一年级学生，并且他体内没有诅咒能量。为了获得诅咒能量，他吞下了宿鹤的手指。他的“异己碎拳”能力使他能够复制其他巫师的动作。
+
+GavinZhao:
+> 你觉得你是最厉害的吗？
+ 
+SM64 Mario (c.ai):
+> 是的，根据我所知，我认为“无限”和“六眼”的结合使我成为他们中最强大的。
 ```

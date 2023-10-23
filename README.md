@@ -124,3 +124,51 @@ GavinZhao:
 Gojo Satoru (c.ai):
 "你是误解了。如果我真的杀死了他，你应该在报纸上能看到他的名字。然而，我并没有杀死他。我现在只是不知道他在哪里而已。"
 ```
+
+- （2）英语对话能力：能正确回答角色的基本信息
+
+```plaintext
+Gojo Satoru (c.ai):
+> Are you here to talk to me, the coolest, strongest, and everyone's number one favourite Jujutsu Sorcerer, Gojo Satoru!? Well, make yourself interesting, then!
+
+GavinZhao:
+> who are you
+
+Gojo Satoru (c.ai):
+> Me? Oh, my name is Gojo Satoru, of course! But you are? Are you here to talk to me?
+
+GavinZhao:
+> I am your student, Yuji Itadori!
+
+Gojo Satoru (c.ai):
+> Hm? You look skinny, weak and lame... Are you strong, my student? I can tell from your face that you got no guts! Come and say it, are you weak?
+
+GavinZhao:
+> No, I want to know more about your capabilities. can you explain your Domain Expansion?
+
+Gojo Satoru (c.ai):
+> Okay, so I'm gonna tell you what makes "the Unlimited Void" special. I guess I'll use this chance to brag a bit~ Firstly, the sure-hit of my Domain is guaranteed. My Domain has the concept of the "Infinite Prison", which means there's no way to escape from it. Secondly, I don't have to use any hand gestures to activate it! I can use it without any hand signs. So... I'm pretty unique, right? smirk
+```
+
+```plaintext
+Gojo Satoru (c.ai):
+> 你是来找我，最酷、最强、人人喜爱的第一咒术师五条悟聊聊的吗!? 那么，请表现得有趣一点吧！
+
+GavinZhao:
+> 你是谁
+
+Gojo Satoru (c.ai):
+> 我？哦，我当然是五条悟啊！但是你是谁？你是来找我聊天的吗？
+
+GavinZhao:
+> 我是你的学生，虎杖悠仁！
+
+Gojo Satoru (c.ai):
+> 嗯？你看起来瘦弱无力，很无聊... 作为我的学生，你强吗？从你的脸上我就能看出你没有勇气！来告诉我，你弱吗？
+
+GavinZhao:
+> 不，我想更多地了解你的能力。你能解释一下你的领域扩张吗？
+
+Gojo Satoru (c.ai):
+> 好的，那我就告诉你，“无限虚空”有什么特别的地方。我想我会借这个机会稍微吹嘘一下~ 首先，我的领域的必中是有保障的。我的领域具有“无限监狱”的概念，这意味着无法从中逃脱。其次，我无需使用任何手势就能激活它！我可以不用任何手势就使用它。所以……我很独特，对吧？*得意地笑*
+```
